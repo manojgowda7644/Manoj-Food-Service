@@ -1,0 +1,6 @@
+{
+  "name": "MANOJ FOOD SERVICE",
+  "description": "Delicious Food, Fresh Taste, Happy Moments — Multi-cuisine restaurant dining and premier event catering showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
